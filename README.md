@@ -14,10 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![Overview](screenshot.jpg)
-
 ### Links
 
 - Solution URL: [https://github.com/KnightF2/QR-Component-Frontend-Mentor]
