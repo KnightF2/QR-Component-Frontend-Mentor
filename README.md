@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/KnightF2/QR-Component-Frontend-Mentor]
-- Live Site URL: [https://knightf2.github.io/QR-Component-Frontend-Mentor/]
+- Solution URL: [https://github.com/fermendoza18/QR-Component-Frontend-Mentor]
+- Live Site URL: [https://fermendoza18.github.io/QR-Component-Frontend-Mentor/]
 
 ## My process
 
@@ -32,3 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Flexbox
 - Mobile-first workflow
+
