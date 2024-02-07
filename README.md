@@ -14,10 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Links
+###
 
-- Solution URL: [https://github.com/nimrodcode/QR-Component-Frontend-Mentor]
-- Live Site URL: [https://nimrodcode.github.io/QR-Component-Frontend-Mentor/]
+- Solution URL: Here[https://github.com/whiteknight-dev/QR-Component-Frontend-Mentor]
+- Live Site URL: Here[https://whiteknight-dev.github.io/QR-Component-Frontend-Mentor/]
 
 ## My process
 
